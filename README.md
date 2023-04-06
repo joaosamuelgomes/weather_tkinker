@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Weather é um app que recebe dados através da API openweathermap e os exibe em tela a partir de uma barra de pesquisa.
+O Weather é um app que recebe dados climáticos através da API openweathermap e os exibe em tela a partir de uma barra de pesquisa onde o usuário deve informar a cidade de onde deseja exibir esses dados.
 
 ## 📝 Licença
 
