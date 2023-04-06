@@ -4,7 +4,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="image" src=".assets/github.png" width="100%">
+  <img alt="image" src="assets/github.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -22,7 +22,9 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -Python
+
 -geopy
+
 -requests
 
 ## 💻 Projeto
